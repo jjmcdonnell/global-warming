@@ -8,8 +8,8 @@ Herein lies the repo for as disucssed in the video above! As noted, it is a very
 1. [Data](https://github.com/jjmcdonnell/global-warming/tree/master/data)
 2. [Matlab](https://github.com/jjmcdonnell/global-warming/tree/master/matlab)
 3. [Reference Material](https://github.com/jjmcdonnell/global-warming/tree/master/reference_material)
-4. [Reference Repositories (3rd Party Code)](https://github.com/jjmcdonnell/global-warming/tree/master/reference_repos)
-5. [C/C++/CUDA](https://github.com/jjmcdonnell/global-warming/tree/master/cuda)
+4. [Reference Repositories](https://github.com/jjmcdonnell/global-warming/tree/master/reference_repos)
+5. [CUDA](https://github.com/jjmcdonnell/global-warming/tree/master/cuda)
 
 ## Video Series
 1. [Repository Origination](https://www.youtube.com/watch?v=M1RJR9H_m2Y) 
